@@ -1,0 +1,18 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.0.1",
+    "fastify": "^5.1.0",
+    "nodemon": "^3.1.7",
+    "prisma": "^6.0.1"
+  },
+  "type": "module"
+}
